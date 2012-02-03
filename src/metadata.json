@@ -1,0 +1,9 @@
+{
+"uuid": "tinkerer@joebodo.iplusplus.net",
+"name": "Theme and Shell Reloading",
+"description": "Provides top panel icons for reloading the theme and restarting the shell"
+"original-author": "joebodo",
+"shell-version": ["3.2.1"],
+"path": "/usr/share/gnome-shell/extensions/tinkerer@joebodo",
+"url": "https://github.com/joebodo/tinkerer",
+}
